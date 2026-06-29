@@ -2,6 +2,9 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 
+Portal21Studio | Deporte | https://yt3.googleusercontent.com/5HsQ1JXSoc1hZY4Wv7zMiTjA26mKhULMCn73pZfFX2VrJXzIrooOyiY104NTig8X66r1mgxrkw=s160-c-k-c0x00ffffff-no-rj | 
+https://www.youtube.com/live/fYoBrog01ts
+
 Ekattor TV Live | Bangla | https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png |
 https://www.youtube.com/channel/UC0ThmWmb7WQATrrDMLQph7Q/live
 
